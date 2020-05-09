@@ -9,8 +9,7 @@ A common place to buy candy is from a machine. This Machine sells candies, chips
 <br/>The machine has two main components: a built-in cash register and several dispensers to hold and release the products. 
 
 # Screenshots:
-<h4>Machine 01</h4>
 ![ScreenShot1](https://github.com/Abhisooraj/Vending-machine/blob/master/images/Screenshot01.png)
-
-<h4>Machine 02</h4>
 ![ScreenShot2](https://github.com/Abhisooraj/Vending-machine/blob/master/images/Screenshot02.png)
+
+<h4>Screenshots on different machines...</h4>
