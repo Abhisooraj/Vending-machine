@@ -1,5 +1,5 @@
 # Vending-machine
-A common place to buy candy is from a machine. This Machine sells candies, chips, gum, and cookies. Vending Machine is selling products window.
+A common place to buy candy is from a machine. This Machine sells candies, chips, gum, and cookies.
 <h3>The program do the following actions:</h3>
 1. Show the customer the different products sold by the candy machine. 
 <br/>2. Let the customer make the selection. 
