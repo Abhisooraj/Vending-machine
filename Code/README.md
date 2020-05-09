@@ -1,5 +1,4 @@
 <h3>Architecture of the Machine:</h3>
-<br/>
 The machine has two main components: a built-in cash register and several dispensers to hold and release the products. 
 Define class <b>cashRegister</b> with the following descriptions : 
 <li>
@@ -23,7 +22,6 @@ Define class <b>dispenserType</b> with the following descriptions :
          product and ask the user to deposit the money. If the amount deposited is at least the cost of the item, the candy machine              should sell the item and display an appropriate message.
      </li>
  </ul>
-<br/>
 <h4>Divide this program into three functions:</h4> 
 <b>showSelection(), sellProduct(), and main()</b> 
 The function sellProduct must have access to the dispenser holding the product (to decrement the number of items in the dispenser by 1 and to show the cost of the item) as well as the cash register (to update the cash). 
