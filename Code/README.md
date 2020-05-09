@@ -1,14 +1,9 @@
 <h3>Architecture of the Machine:</h3>
-The machine has two main components: a built-in cash register and several
-dispensers to hold and release the products. Define class
-cashRegister in C++ with the following descriptions : Private
-Members: cashOnHand of type integer , Public Members: A
-default constructor cashRegister() sets the cash in the register
-to 500. A constructor cashRegister(int) sets the cash in the
-register to a specific amount. Afunction getCurrentBalance()
-which returns value of cashOnHand . A function
-acceptAmount(int) to receive the amount deposited by the
-customer and update the amount in the register . Define class
+The machine has two main components: a built-in cash register and several dispensers to hold and release the products. 
+<br/>Define class <b>cashRegister</b> in C++ with the following descriptions : 
+<li>Private Members: cashOnHand of type integer , </li>
+<li>Public Members: A default constructor cashRegister() sets the cash in the register to 500. A constructor cashRegister(int) sets the cash in the register to a specific amount. A function getCurrentBalance() which returns value of cashOnHand . A function acceptAmount(int) to receive the amount deposited by the customer and update the amount in the register.</li>
+<br/>Define class
 dispenserType in C++ with the following descriptions :Private
 Members: numberOfItems of type integer cost of type integer
 Public Members: A default constructor dispenserType () sets
