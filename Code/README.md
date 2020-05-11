@@ -1,4 +1,4 @@
-<h3>Architecture of the Machine:</h3>
+<h3>Architecture of the Machine: 🛠</h3>
 The machine has two main components: a built-in cash register and several dispensers to hold and release the products. 
 Define class <b>cashRegister</b> with the following descriptions : 
 <li>
